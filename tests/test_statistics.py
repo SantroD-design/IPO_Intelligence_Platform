@@ -1,0 +1,3 @@
+from modules.database_statistics import database_statistics
+
+database_statistics()
